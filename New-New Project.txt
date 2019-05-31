@@ -1,0 +1,2 @@
+print ("Welcome");
+print ("What you doing now?");
